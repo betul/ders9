@@ -1,0 +1,8 @@
+.photoBox {
+    border:3px solid #ddd;
+    padding: 3rem;
+    text-align: center;
+}
+
+.btn {background: #ddd; color: #333; padding:5px; display: flex;
+}
